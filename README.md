@@ -1,8 +1,12 @@
-### Tweet Scraper
+# Tweet Scraper
 
-# This script can pull up to 3200 tweets of any given user
+## This script can pull up to 3200 tweets of any given user
 
-Sample execution:
+### Install dependencies:
+
+`$ pip install -r requirements.txt`
+
+### Sample execution:
 
 `$ python main.py --username elonmusk`
 
